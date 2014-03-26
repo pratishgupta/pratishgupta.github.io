@@ -56,9 +56,9 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
+  font-size: 125%;
   text-align: justify;
-  width: 42em;
+  width: 62em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
@@ -92,6 +92,7 @@ a:visited { color: #a0a; }
 
 .meta {
   color: #aaa;
+  font-size: 70%;
 }
 
 .footer {
